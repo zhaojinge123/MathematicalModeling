@@ -1,0 +1,2 @@
+# MathematicalModeling
+2025年数理杯北京建筑大学数学建模竞赛题目
